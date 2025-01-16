@@ -1,23 +1,23 @@
-#Conversor de Monedas con ExchangeRate-API
+# Conversor de Monedas con ExchangeRate-API
 
 Este proyecto es un conversor de monedas basado en consola, desarrollado en Java, que utiliza la API de ExchangeRate para realizar conversiones de monedas en tiempo real. También incluye la funcionalidad de buscar monedas según el nombre del país para facilitar el uso a los usuarios.
 
-###Características
+### Características
 
-1.Conversión de monedas en tiempo real utilizando la API de ExchangeRate.
+1. Conversión de monedas en tiempo real utilizando la API de ExchangeRate.
 
-2.Listado de monedas soportadas con sus descripciones.
+2. Listado de monedas soportadas con sus descripciones.
 
-3.Búsqueda de monedas por el nombre del país asociado.
+3. Búsqueda de monedas por el nombre del país asociado.
 
-4.Interfaz basada en consola fácil de usar.
+4. Interfaz basada en consola fácil de usar.
 
-###Requisitos
+### Requisitos
 
-1.Java 8 o superior.
+1. Java 8 o superior.
 
-2.IntelliJ IDEA o cualquier IDE compatible con Java.
+2. IntelliJ IDEA o cualquier IDE compatible con Java.
 
-3.Conexión a Internet para interactuar con la API.
+3. Conexión a Internet para interactuar con la API.
 
-4.Una clave de API de ExchangeRate-API.
+4. Una clave de API de ExchangeRate-API.

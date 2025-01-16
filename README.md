@@ -14,7 +14,7 @@ Este proyecto es un conversor de monedas basado en consola, desarrollado en Java
 
 ### Requisitos
 
-1. Java 8 o superior.
+1. Java 17 .
 
 2. IntelliJ IDEA o cualquier IDE compatible con Java.
 

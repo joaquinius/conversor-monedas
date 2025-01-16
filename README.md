@@ -21,3 +21,6 @@ Este proyecto es un conversor de monedas basado en consola, desarrollado en Java
 3. Conexión a Internet para interactuar con la API.
 
 4. Una clave de API de ExchangeRate-API.
+
+### metodo de uso en Intelij 
+ejecutar archivo principal 
